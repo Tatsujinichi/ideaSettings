@@ -1,0 +1,15 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.dofus.lan/dev/dofus2/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.dofus.lan/dev/dofus2/" />
+        <option value="http://svn.dofus.lan/dev/dofus2/server/branches/Wizcorp_2.14_r75821/game/" />
+      </list>
+    </option>
+  </component>
+</application>
